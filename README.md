@@ -1,2 +1,1 @@
-**#Learning to Python**
-Learning Python - Code
+**Learning Python**
